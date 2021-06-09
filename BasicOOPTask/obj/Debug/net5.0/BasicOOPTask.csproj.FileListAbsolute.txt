@@ -1,0 +1,16 @@
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\BasicOOPTask.exe
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\BasicOOPTask.deps.json
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\BasicOOPTask.runtimeconfig.json
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\BasicOOPTask.runtimeconfig.dev.json
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\BasicOOPTask.dll
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\ref\BasicOOPTask.dll
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\BasicOOPTask.pdb
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.csprojAssemblyReference.cache
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.AssemblyInfoInputs.cache
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.AssemblyInfo.cs
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.csproj.CoreCompileInputs.cache
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.dll
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\ref\BasicOOPTask.dll
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.pdb
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.genruntimeconfig.cache
