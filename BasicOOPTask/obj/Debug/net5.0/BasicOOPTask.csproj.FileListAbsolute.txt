@@ -14,3 +14,5 @@ C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\Bas
 C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\ref\BasicOOPTask.dll
 C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.pdb
 C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.genruntimeconfig.cache
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vkorostelov\source\repos\BasicOOPTask\BasicOOPTask\obj\Debug\net5.0\BasicOOPTask.csproj.CopyComplete

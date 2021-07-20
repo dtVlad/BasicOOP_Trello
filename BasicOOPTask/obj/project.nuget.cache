@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "woDEFtfcL42yNbZXZJdCTtnpDbXRcIM+oc1oM6RHQRrbxmSoULk3kMuxMZBgVBO/8il0FrNeja2JLRBofeU/nQ==",
+  "dgSpecHash": "i1jO5bHKEjb9avYAVhmwRNgo8KyX+QSgcOVGOBu5rWNzHcLLyRiZ65ocyyEO2S/i/4bgsBrpVCxEaNPidtAYHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vkorostelov\\source\\repos\\BasicOOPTask\\BasicOOPTask\\BasicOOPTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vkorostelov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
